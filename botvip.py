@@ -10,7 +10,7 @@ from datetime import datetime, timedelta, timezone
 # ==================== CONFIGURATION ====================
 BOT_TOKEN = "***************************"
 GITHUB_TOKEN = "************************"
-REPO_OWNER = "kk33780"
+REPO_OWNER = "kk3378076_
 REPO_NAME = "***"
 
 
