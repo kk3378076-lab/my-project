@@ -10,8 +10,8 @@ from datetime import datetime, timedelta, timezone
 # ==================== CONFIGURATION ====================
 BOT_TOKEN = "***************************"
 GITHUB_TOKEN = "************************"
-REPO_OWNER = "kk3378076_
-REPO_NAME = "***"
+REPO_OWNER = "kk3378076-lab
+REPO_NAME = "my-project"
 
 
 ADMINS = [
