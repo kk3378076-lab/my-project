@@ -8,8 +8,10 @@ import numpy as np
 from datetime import datetime, timedelta, timezone
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = "***************************"
-GITHUB_TOKEN = "************************"
+import os
+BOT_TOKEN = os.environ.get('BOT_TOKEN')
+GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')
+
 REPO_OWNER = "kk3378076-lab
 REPO_NAME = "my-project"
 
