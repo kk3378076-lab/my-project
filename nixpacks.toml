@@ -1,2 +1,5 @@
-[phases.setup]
-nixPkgs = ["python3", "gcc", "glibc", "libglvnd", "mesa"]
+[providers]
+providers = ["python"]
+
+[apt]
+packages = ["build-essential", "libgl1-mesa-dev", "libglib2.0-0"]
