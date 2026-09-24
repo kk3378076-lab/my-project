@@ -3,3 +3,5 @@ aiohttp
 opencv-python-headless
 numpy==2.2.6
 ddddocr
+
+# Railway redeploy
