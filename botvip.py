@@ -13,7 +13,7 @@ BOT_TOKEN = os.environ.get('BOT_TOKEN')
 GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')
 
 
-RREPO_OWNER = "kk3378076-lab"
+REPO_OWNER = "kk3378076-lab"
 
 
 ADMINS = [
