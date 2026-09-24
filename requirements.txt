@@ -1,7 +1,6 @@
 pyTelegramBotAPI
 aiohttp
 opencv-python-headless
-numpy==2.2.6
+numpy
 ddddocr
 
-# Railway redeploy
