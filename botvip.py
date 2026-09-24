@@ -12,8 +12,8 @@ import os
 BOT_TOKEN = os.environ.get('BOT_TOKEN')
 GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')
 
-REPO_OWNER = "kk3378076-lab
-REPO_NAME = "my-project"
+
+RREPO_OWNER = "kk3378076-lab"
 
 
 ADMINS = [
