@@ -1,5 +1,6 @@
 import asyncio, base64, json, random, re, os, string, time, uuid
 from telebot.async_telebot import AsyncTeleBot
+import aiohttp
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiohttp import web
 import cv2
