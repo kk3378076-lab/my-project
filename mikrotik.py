@@ -6,7 +6,7 @@ from datetime import datetime, timedelta, timezone
 import hashlib
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = "************"
+BOT_TOKEN = "8995975029:AAFx8gJaGORwFOxA2gXA1rp1XtdFXwvQpuI"
 ADMINS = ["8181084923"]
 ADMIN_CONTACT = "@kk3378076_lab"
 
