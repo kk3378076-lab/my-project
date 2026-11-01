@@ -8,7 +8,7 @@ import hashlib
 # ==================== CONFIGURATION ====================
 BOT_TOKEN = "************"
 ADMINS = ["8181084923"]
-ADMIN_CONTACT = "@kk3378076_lab
+ADMIN_CONTACT = "@kk3378076_lab"
 
 LICENSE_FILE = "licenses.json"
 KEY_FILE = "keys.json"
